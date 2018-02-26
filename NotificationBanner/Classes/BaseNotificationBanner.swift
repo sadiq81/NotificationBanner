@@ -19,7 +19,7 @@
 import UIKit
 import SnapKit
 
-#if CARTHAGE_CONFIG
+#if CARTHAGE
     import MarqueeLabelSwift
 #else
     import MarqueeLabel
